@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.b99ca8e6.css",
-    "main.js": "./static/js/main.b05c8920.js",
+    "main.css": "./static/css/main.327154be.css",
+    "main.js": "./static/js/main.97e24bfa.js",
     "static/media/category-tablets.png": "./static/media/category-tablets.51782e18205a1ca01ce8.png",
     "static/media/category-phones.png": "./static/media/category-phones.af93d992917380dfe206.png",
     "static/media/png-apple-logo.png": "./static/media/png-apple-logo.41e4084c3f6f81a09e51.png",
@@ -19,7 +19,9 @@
     "static/media/Shopping bag (Cart)-white.svg": "./static/media/Shopping bag (Cart)-white.e6d61380bdd98fb068098b6e66f11a7d.svg",
     "static/media/Favourites (Heart Like).svg": "./static/media/Favourites (Heart Like).e2e06b07a16f699a7ba240f370fd85a6.svg",
     "static/media/Favourites (Heart Like)--white.svg": "./static/media/Favourites (Heart Like)--white.ff96e52e75252e095632a544dbab63e3.svg",
+    "static/media/Favourites_Heart.svg": "./static/media/Favourites_Heart.cc696932b63c19f487763e75a935dfcb.svg",
     "static/media/Home.svg": "./static/media/Home.d4c29e4f137b3a79235a5293536d71a0.svg",
+    "static/media/Close.svg": "./static/media/Close.cdfb6ae506fe360c9ad495bfc61f521d.svg",
     "static/media/arrow_right.svg": "./static/media/arrow_right.7365d53e50cb07ca548dbdd2c9cd8420.svg",
     "static/media/arrow_right_small.svg": "./static/media/arrow_right_small.7365d53e50cb07ca548dbdd2c9cd8420.svg",
     "static/media/arrow_left.svg": "./static/media/arrow_left.081ebe62e01945fa5d9ab282ea190f9a.svg",
@@ -28,11 +30,11 @@
     "static/media/Arrow_right_crums.svg": "./static/media/Arrow_right_crums.e028d3889646e0b5e56cf54f47bb701a.svg",
     "static/media/arrow_down.svg": "./static/media/arrow_down.98c9dd6d98b47f2f1977e301cf0fa429.svg",
     "index.html": "./index.html",
-    "main.b99ca8e6.css.map": "./static/css/main.b99ca8e6.css.map",
-    "main.b05c8920.js.map": "./static/js/main.b05c8920.js.map"
+    "main.327154be.css.map": "./static/css/main.327154be.css.map",
+    "main.97e24bfa.js.map": "./static/js/main.97e24bfa.js.map"
   },
   "entrypoints": [
-    "static/css/main.b99ca8e6.css",
-    "static/js/main.b05c8920.js"
+    "static/css/main.327154be.css",
+    "static/js/main.97e24bfa.js"
   ]
 }
