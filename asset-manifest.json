@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.d66b3e8e.css",
-    "main.js": "./static/js/main.97e24bfa.js",
+    "main.js": "./static/js/main.25573715.js",
     "static/media/category-tablets.png": "./static/media/category-tablets.51782e18205a1ca01ce8.png",
     "static/media/category-phones.png": "./static/media/category-phones.af93d992917380dfe206.png",
     "static/media/png-apple-logo.png": "./static/media/png-apple-logo.41e4084c3f6f81a09e51.png",
@@ -31,10 +31,10 @@
     "static/media/arrow_down.svg": "./static/media/arrow_down.98c9dd6d98b47f2f1977e301cf0fa429.svg",
     "index.html": "./index.html",
     "main.d66b3e8e.css.map": "./static/css/main.d66b3e8e.css.map",
-    "main.97e24bfa.js.map": "./static/js/main.97e24bfa.js.map"
+    "main.25573715.js.map": "./static/js/main.25573715.js.map"
   },
   "entrypoints": [
     "static/css/main.d66b3e8e.css",
-    "static/js/main.97e24bfa.js"
+    "static/js/main.25573715.js"
   ]
 }
